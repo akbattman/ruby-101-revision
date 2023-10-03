@@ -34,7 +34,10 @@ a.class # has not modified variable
 a
 # => 12
 
-b = a.to_f
+b = a.to_f.class
+# => Float
+
+b
 # => 12.0
 
 c = a / 4.5 # including a Float will return a float 
