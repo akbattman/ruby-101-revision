@@ -10,7 +10,7 @@ Division (/)
 
 Exponentiation (**)
   Exponentiation raises one number (the base) to the power of the other (the exponent).
-  eg: 2**2 == (((2*2)*2)*2)
+  eg: 2**2 == (((2*2)*2)*2) || 2*2=4, 4*2=8, 8*2=16
   => 16
 
 Modulo (%)
